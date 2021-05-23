@@ -1,0 +1,2 @@
+# TelegramShiller9000
+Telegram marketing client, built in Python using Telethon framework. Automatically sends messages every 10 minutes to a list of telegram groups of your choice. To run, do a pip install of telethon, retrieve your api_id and hash from mytelegram.org, initialize the api_id and api_hash variables in TelegramShiller.py accordingly and execute TelegramShiller.py in command line or your Python IDE of choice. 
